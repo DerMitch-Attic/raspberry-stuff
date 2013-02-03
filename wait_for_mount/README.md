@@ -48,6 +48,7 @@ _We assume here that you're using the latest [Raspbian](http://www.raspbian.org/
         $ sudo supervisorctl
         supervisor> reread; update
         mpd: available
+        mpd: added process group
         (wait a few seconds...)
 
         supervisor> status
